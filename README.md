@@ -1,7 +1,7 @@
 # Testing Playwright with JS on LambdaTest
 
 ## Setup
-* Clone the repo. Run `cd playwright-test-js`
+* Clone the repo. Run `cd SmartUI_Playwright`
 * Install dependencies. Run `npm install`
 
 ## Running your tests
