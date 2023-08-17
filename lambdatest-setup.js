@@ -17,7 +17,7 @@ const capabilities = {
     'build': 'Playwright Anubha',
     'name': 'Playwright Test',
     'user': 'anubhas',
-    'accessKey': 'JvGShZ2Bm8RdgmGFbbx4ZtbOb6DeQ8nqSvtHDZdDY7PzqaZMTq',
+    'accessKey': 'acceskey',
     'network': true,
     'video': true,
     'console': true,
